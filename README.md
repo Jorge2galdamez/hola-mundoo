@@ -1,3 +1,3 @@
 # hola-mundoo
 el primero
-Autor: jorge luis
+Autor: jorge luis uabc.edu
